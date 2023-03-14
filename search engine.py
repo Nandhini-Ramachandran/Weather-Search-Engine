@@ -71,12 +71,10 @@ def get_weather(city_name):
     # HTTP request to fetch weather data at coordinates of city in json format
     weather_data = requests.get(url_weather).json()
     
-    try:
-        if weather_data["name"].lower() == city_name.lower():
-                         
-            #function call to display the weather information to user
-            display_weather(weather_data)
-            return weather_data
+    try:           
+        #function call to display the weather information to user
+        display_weather(weather_data)
+        return weather_data
         
     except TypeError:
         print ("Invalid entry. Kindly enter a valid city name.\n")
@@ -107,9 +105,10 @@ if __name__ == "__main__":
             city_name = input("\nEnter the name of the city: ")
             print('\n')
             
+            lower_city_name = city_name.lower()
             # checking for city's weather data in cache
-            if city_name in cache:
-                weather_data = cache[city_name]
+            if lower_city_name in cache:
+                weather_data = cache[lower_city_name]
                 display_weather(weather_data)
                 break
 
@@ -120,8 +119,8 @@ if __name__ == "__main__":
                     
                     # fetching and displaying weather data from server
                     try:
-                        weather_data = get_weather(city_name)
-                        cache[city_name] = weather_data
+                        weather_data = get_weather(lower_city_name)
+                        cache[lower_city_name] = weather_data
                         break 
                         
                     except IndexError:
@@ -143,4 +142,3 @@ if __name__ == "__main__":
         if response not in ['y','n']:
             print("Invalid Input.\n")
             break
-

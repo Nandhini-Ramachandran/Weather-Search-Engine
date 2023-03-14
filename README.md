@@ -21,6 +21,8 @@ To use the script, simply run it from the command line using the following comma
 
 search engine.py
 
+cache.json file is added only for reference. Donot download it while executing the search engine.py file.
+
 You'll be prompted to enter the city name for which you want to retrieve weather data. The script will then retrieve the weather data from OpenWeatherMap and display the following weather parameters:
 
 Weather<br>

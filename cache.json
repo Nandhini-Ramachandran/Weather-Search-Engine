@@ -1,0 +1,1207 @@
+{
+    "chennai": {
+        "coord": {
+            "lon": 80.2702,
+            "lat": 13.0837
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 29.01,
+            "feels_like": 33.52,
+            "temp_min": 29.01,
+            "temp_max": 29.01,
+            "pressure": 1008,
+            "humidity": 74
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 120
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1678798070,
+        "sys": {
+            "type": 1,
+            "id": 9218,
+            "country": "IN",
+            "sunrise": 1678754851,
+            "sunset": 1678798154
+        },
+        "timezone": 19800,
+        "id": 1465730,
+        "name": "Park Town",
+        "cod": 200
+    },
+    "no": {
+        "coord": {
+            "lon": 24.2831,
+            "lat": 45.8299
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 16.12,
+            "feels_like": 14.49,
+            "temp_min": 16.12,
+            "temp_max": 18.03,
+            "pressure": 1007,
+            "humidity": 27
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 120
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1678799518,
+        "sys": {
+            "type": 2,
+            "id": 50398,
+            "country": "RO",
+            "sunrise": 1678768713,
+            "sunset": 1678811160
+        },
+        "timezone": 7200,
+        "id": 668656,
+        "name": "Ro\u015fia",
+        "cod": 200
+    },
+    "dfr": {
+        "coord": {
+            "lon": 53.5655,
+            "lat": 30.2214
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 12.13,
+            "feels_like": 10.57,
+            "temp_min": 12.13,
+            "temp_max": 12.13,
+            "pressure": 1014,
+            "humidity": 45,
+            "sea_level": 1014,
+            "grnd_level": 781
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.61,
+            "deg": 258,
+            "gust": 1.74
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1678799609,
+        "sys": {
+            "country": "IR",
+            "sunrise": 1678761459,
+            "sunset": 1678804362
+        },
+        "timezone": 12600,
+        "id": 6909756,
+        "name": "Ma\u1e29alleh-ye Fas\u0101r\u016bd",
+        "cod": 200
+    },
+    "cdf": {
+        "coord": {
+            "lon": 36.1372,
+            "lat": -0.184
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 26.46,
+            "feels_like": 26.46,
+            "temp_min": 26.46,
+            "temp_max": 26.46,
+            "pressure": 1004,
+            "humidity": 28,
+            "sea_level": 1004,
+            "grnd_level": 803
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.8,
+            "deg": 9,
+            "gust": 4.53
+        },
+        "clouds": {
+            "all": 77
+        },
+        "dt": 1678799632,
+        "sys": {
+            "country": "KE",
+            "sunrise": 1678765291,
+            "sunset": 1678808894
+        },
+        "timezone": 10800,
+        "id": 184622,
+        "name": "Nakuru",
+        "cod": 200
+    },
+    "try": {
+        "coord": {
+            "lon": 7.6612,
+            "lat": 58.1049
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 6.54,
+            "feels_like": 4.94,
+            "temp_min": 4.96,
+            "temp_max": 6.55,
+            "pressure": 987,
+            "humidity": 46
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.24,
+            "deg": 308,
+            "gust": 6.26
+        },
+        "clouds": {
+            "all": 49
+        },
+        "dt": 1678799676,
+        "sys": {
+            "type": 2,
+            "id": 2003856,
+            "country": "NO",
+            "sunrise": 1678772975,
+            "sunset": 1678814875
+        },
+        "timezone": 3600,
+        "id": 3134827,
+        "name": "Tangvall",
+        "cod": 200
+    },
+    "mumbai": {
+        "coord": {
+            "lon": 72.8782,
+            "lat": 19.0785
+        },
+        "weather": [
+            {
+                "id": 711,
+                "main": "Smoke",
+                "description": "smoke",
+                "icon": "50d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 30.03,
+            "feels_like": 31.76,
+            "temp_min": 28.98,
+            "temp_max": 30.03,
+            "pressure": 1007,
+            "humidity": 54
+        },
+        "visibility": 3000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1678799268,
+        "sys": {
+            "type": 1,
+            "id": 9052,
+            "country": "IN",
+            "sunrise": 1678756692,
+            "sunset": 1678799860
+        },
+        "timezone": 19800,
+        "id": 8131499,
+        "name": "Konkan Division",
+        "cod": 200
+    },
+    "hy": {
+        "coord": {
+            "lon": 36.386,
+            "lat": 18.3329
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 32.08,
+            "feels_like": 29.92,
+            "temp_min": 32.08,
+            "temp_max": 32.08,
+            "pressure": 1005,
+            "humidity": 6,
+            "sea_level": 1005,
+            "grnd_level": 936
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.46,
+            "deg": 251,
+            "gust": 3.25
+        },
+        "clouds": {
+            "all": 27
+        },
+        "dt": 1678799788,
+        "sys": {
+            "country": "SD",
+            "sunrise": 1678765437,
+            "sunset": 1678808628
+        },
+        "timezone": 7200,
+        "id": 367544,
+        "name": "Saw\u0101kin",
+        "cod": 200
+    },
+    "mumbi": {
+        "coord": {
+            "lon": 31.3111,
+            "lat": -14.4754
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 18.57,
+            "feels_like": 18.75,
+            "temp_min": 18.57,
+            "temp_max": 18.57,
+            "pressure": 1009,
+            "humidity": 87,
+            "sea_level": 1009,
+            "grnd_level": 897
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 162,
+            "gust": 7.2
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1678802542,
+        "sys": {
+            "country": "ZM",
+            "sunrise": 1678766278,
+            "sunset": 1678810223
+        },
+        "timezone": 7200,
+        "id": 899825,
+        "name": "Petauke",
+        "cod": 200
+    },
+    "delhi": {
+        "coord": {
+            "lon": 77.2219,
+            "lat": 28.6517
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 29.06,
+            "feels_like": 28.18,
+            "temp_min": 29.06,
+            "temp_max": 29.06,
+            "pressure": 1009,
+            "humidity": 34
+        },
+        "visibility": 4000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1678802632,
+        "sys": {
+            "type": 1,
+            "id": 9165,
+            "country": "IN",
+            "sunrise": 1678755766,
+            "sunset": 1678798702
+        },
+        "timezone": 19800,
+        "id": 1273294,
+        "name": "Delhi",
+        "cod": 200
+    },
+    "hello": {
+        "coord": {
+            "lon": 10.0752,
+            "lat": 45.4181
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 13.67,
+            "feels_like": 13.23,
+            "temp_min": 13.08,
+            "temp_max": 16.03,
+            "pressure": 1001,
+            "humidity": 82
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 170
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1678803025,
+        "sys": {
+            "type": 1,
+            "id": 6768,
+            "country": "IT",
+            "sunrise": 1678772111,
+            "sunset": 1678814581
+        },
+        "timezone": 3600,
+        "id": 3177628,
+        "name": "Dello",
+        "cod": 200
+    },
+    "vdg": null,
+    "fe": null,
+    "fg": 0,
+    "goa": {
+        "coord": {
+            "lon": 123.4885,
+            "lat": 13.6973
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 22.34,
+            "feels_like": 23.14,
+            "temp_min": 22.34,
+            "temp_max": 22.34,
+            "pressure": 1013,
+            "humidity": 96,
+            "sea_level": 1013,
+            "grnd_level": 1004
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.31,
+            "deg": 31,
+            "gust": 1.72
+        },
+        "clouds": {
+            "all": 99
+        },
+        "dt": 1678804662,
+        "sys": {
+            "country": "PH",
+            "sunrise": 1678744490,
+            "sunset": 1678787774
+        },
+        "timezone": 28800,
+        "id": 1712808,
+        "name": "Goa",
+        "cod": 200
+    },
+    "diu": {
+        "coord": {
+            "lon": 70.9854,
+            "lat": 20.7138
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 27.74,
+            "feels_like": 27.78,
+            "temp_min": 27.74,
+            "temp_max": 27.74,
+            "pressure": 1009,
+            "humidity": 45,
+            "sea_level": 1009,
+            "grnd_level": 1007
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.65,
+            "deg": 282,
+            "gust": 5.33
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1678804695,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1678757165,
+            "sunset": 1678800296
+        },
+        "timezone": 19800,
+        "id": 1272502,
+        "name": "Diu",
+        "cod": 200
+    },
+    "shimla": {
+        "coord": {
+            "lon": 77.1659,
+            "lat": 31.1034
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 10.24,
+            "feels_like": 8.26,
+            "temp_min": 10.24,
+            "temp_max": 10.24,
+            "pressure": 1012,
+            "humidity": 36,
+            "sea_level": 1012,
+            "grnd_level": 793
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.53,
+            "deg": 65,
+            "gust": 2.16
+        },
+        "clouds": {
+            "all": 1
+        },
+        "dt": 1678804665,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1678755811,
+            "sunset": 1678798684
+        },
+        "timezone": 19800,
+        "id": 1256237,
+        "name": "Shimla",
+        "cod": 200
+    },
+    "ty": null,
+    "gr": null,
+    "kolkata": null,
+    "calcuta": null,
+    "calcutta": null,
+    "srinagar": {
+        "coord": {
+            "lon": 74.8204,
+            "lat": 34.0747
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 14.26,
+            "feels_like": 12.76,
+            "temp_min": 14.26,
+            "temp_max": 14.26,
+            "pressure": 1014,
+            "humidity": 39,
+            "sea_level": 1014,
+            "grnd_level": 842
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.51,
+            "deg": 70,
+            "gust": 2.4
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1678805883,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1678756413,
+            "sunset": 1678799207
+        },
+        "timezone": 19800,
+        "id": 1255634,
+        "name": "Srinagar",
+        "cod": 200
+    },
+    "oregon": null,
+    "michigan": null,
+    "madurai": {
+        "coord": {
+            "lon": 78.1141,
+            "lat": 9.9261
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.98,
+            "feels_like": 31.8,
+            "temp_min": 28.98,
+            "temp_max": 28.98,
+            "pressure": 1009,
+            "humidity": 65
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 80
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1678806517,
+        "sys": {
+            "type": 1,
+            "id": 9216,
+            "country": "IN",
+            "sunrise": 1678755332,
+            "sunset": 1678798707
+        },
+        "timezone": 19800,
+        "id": 1264521,
+        "name": "Madurai",
+        "cod": 200
+    },
+    "Mareo de Arriba": {
+        "coord": {
+            "lon": -5.6917,
+            "lat": 43.4994
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 14.42,
+            "feels_like": 13.8,
+            "temp_min": 13.31,
+            "temp_max": 17.53,
+            "pressure": 1022,
+            "humidity": 72
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.13,
+            "deg": 317,
+            "gust": 6.71
+        },
+        "clouds": {
+            "all": 97
+        },
+        "dt": 1678809564,
+        "sys": {
+            "type": 2,
+            "id": 266209,
+            "country": "ES",
+            "sunrise": 1678775857,
+            "sunset": 1678818401
+        },
+        "timezone": 3600,
+        "id": 3117432,
+        "name": "Mareo de Arriba",
+        "cod": 200
+    },
+    "new york": {
+        "coord": {
+            "lon": -74.0071,
+            "lat": 40.7146
+        },
+        "weather": [
+            {
+                "id": 601,
+                "main": "Snow",
+                "description": "snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 1.44,
+            "feels_like": -5.51,
+            "temp_min": 0.19,
+            "temp_max": 2.48,
+            "pressure": 999,
+            "humidity": 85
+        },
+        "visibility": 1609,
+        "wind": {
+            "speed": 11.32,
+            "deg": 290,
+            "gust": 14.92
+        },
+        "snow": {
+            "1h": 0.84
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1678809662,
+        "sys": {
+            "type": 2,
+            "id": 2039034,
+            "country": "US",
+            "sunrise": 1678792190,
+            "sunset": 1678834853
+        },
+        "timezone": -14400,
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    "Marc\u00f3n": null,
+    "coimbatore": {
+        "coord": {
+            "lon": 76.9628,
+            "lat": 11.0018
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.88,
+            "feels_like": 28.96,
+            "temp_min": 28.88,
+            "temp_max": 28.88,
+            "pressure": 1011,
+            "humidity": 45
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 1.54,
+            "deg": 90
+        },
+        "clouds": {
+            "all": 3
+        },
+        "dt": 1678810402,
+        "sys": {
+            "type": 1,
+            "id": 9206,
+            "country": "IN",
+            "sunrise": 1678755621,
+            "sunset": 1678798971
+        },
+        "timezone": 19800,
+        "id": 1273865,
+        "name": "Coimbatore",
+        "cod": 200
+    },
+    "Margalef": {
+        "coord": {
+            "lon": 0.7538,
+            "lat": 41.2854
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 16.9,
+            "feels_like": 15.87,
+            "temp_min": 15.21,
+            "temp_max": 17.85,
+            "pressure": 1015,
+            "humidity": 47,
+            "sea_level": 1015,
+            "grnd_level": 968
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 13.42,
+            "deg": 308,
+            "gust": 16.66
+        },
+        "clouds": {
+            "all": 6
+        },
+        "dt": 1678811024,
+        "sys": {
+            "type": 2,
+            "id": 2011976,
+            "country": "ES",
+            "sunrise": 1678774277,
+            "sunset": 1678816888
+        },
+        "timezone": 3600,
+        "id": 3117429,
+        "name": "Margalef",
+        "cod": 200
+    },
+    "Manzaneda de Sierra": {
+        "coord": {
+            "lon": -3.3592,
+            "lat": 43.214
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 15.21,
+            "feels_like": 14.35,
+            "temp_min": 13.73,
+            "temp_max": 16.44,
+            "pressure": 1022,
+            "humidity": 60,
+            "sea_level": 1022,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.19,
+            "deg": 322,
+            "gust": 5.53
+        },
+        "clouds": {
+            "all": 53
+        },
+        "dt": 1678811048,
+        "sys": {
+            "type": 2,
+            "id": 20269,
+            "country": "ES",
+            "sunrise": 1678775293,
+            "sunset": 1678817845
+        },
+        "timezone": 3600,
+        "id": 3117495,
+        "name": "Manzaneda de Sierra",
+        "cod": 200
+    },
+    "Ma\u00f1ufe": {
+        "coord": {
+            "lon": -8.7737,
+            "lat": 42.092
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 15.7,
+            "feels_like": 14.84,
+            "temp_min": 15.44,
+            "temp_max": 15.7,
+            "pressure": 1023,
+            "humidity": 58
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 240
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1678811062,
+        "sys": {
+            "type": 2,
+            "id": 2012195,
+            "country": "ES",
+            "sunrise": 1678776573,
+            "sunset": 1678819164
+        },
+        "timezone": 3600,
+        "id": 3117518,
+        "name": "Ma\u00f1ufe",
+        "cod": 200
+    },
+    "Mansilla de las Mulas": {
+        "coord": {
+            "lon": -5.4169,
+            "lat": 42.4991
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 14.14,
+            "feels_like": 12.58,
+            "temp_min": 12.74,
+            "temp_max": 15.61,
+            "pressure": 1019,
+            "humidity": 37,
+            "sea_level": 1019,
+            "grnd_level": 928
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.75,
+            "deg": 261,
+            "gust": 7.87
+        },
+        "clouds": {
+            "all": 74
+        },
+        "dt": 1678811104,
+        "sys": {
+            "type": 2,
+            "id": 2000989,
+            "country": "ES",
+            "sunrise": 1678775775,
+            "sunset": 1678818351
+        },
+        "timezone": 3600,
+        "id": 3117527,
+        "name": "Mansilla de las Mulas",
+        "cod": 200
+    },
+    "M\u00e1laga del Fresno": {
+        "coord": {
+            "lon": -3.247,
+            "lat": 40.7892
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 14.39,
+            "feels_like": 13.03,
+            "temp_min": 13.78,
+            "temp_max": 16.32,
+            "pressure": 1019,
+            "humidity": 44,
+            "sea_level": 1019,
+            "grnd_level": 930
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.78,
+            "deg": 303,
+            "gust": 5.26
+        },
+        "clouds": {
+            "all": 98
+        },
+        "dt": 1678811128,
+        "sys": {
+            "type": 2,
+            "id": 2025414,
+            "country": "ES",
+            "sunrise": 1678775228,
+            "sunset": 1678817857
+        },
+        "timezone": 3600,
+        "id": 3117651,
+        "name": "M\u00e1laga del Fresno",
+        "cod": 200
+    },
+    "magall\u00f3n": {
+        "coord": {
+            "lon": -1.4609,
+            "lat": 41.8326
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 17.14,
+            "feels_like": 15.9,
+            "temp_min": 15.71,
+            "temp_max": 17.14,
+            "pressure": 1019,
+            "humidity": 38,
+            "sea_level": 1019,
+            "grnd_level": 973
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 10.98,
+            "deg": 343,
+            "gust": 12.72
+        },
+        "clouds": {
+            "all": 22
+        },
+        "dt": 1678811169,
+        "sys": {
+            "type": 1,
+            "id": 6439,
+            "country": "ES",
+            "sunrise": 1678774816,
+            "sunset": 1678817412
+        },
+        "timezone": 3600,
+        "id": 3117708,
+        "name": "Magall\u00f3n",
+        "cod": 200
+    },
+    "new York": {
+        "coord": {
+            "lon": -74.006,
+            "lat": 40.7127
+        },
+        "weather": [
+            {
+                "id": 601,
+                "main": "Snow",
+                "description": "snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 1.49,
+            "feels_like": -4.99,
+            "temp_min": 0.08,
+            "temp_max": 2.75,
+            "pressure": 999,
+            "humidity": 85
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 9.77,
+            "deg": 280,
+            "gust": 15.43
+        },
+        "snow": {
+            "1h": 0.56
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1678811209,
+        "sys": {
+            "type": 2,
+            "id": 2039034,
+            "country": "US",
+            "sunrise": 1678792190,
+            "sunset": 1678834853
+        },
+        "timezone": -14400,
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    "Delhi": {
+        "coord": {
+            "lon": 77.2195,
+            "lat": 28.65
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 25.06,
+            "feels_like": 24.93,
+            "temp_min": 25.06,
+            "temp_max": 25.06,
+            "pressure": 1010,
+            "humidity": 50
+        },
+        "visibility": 3500,
+        "wind": {
+            "speed": 0,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 2
+        },
+        "dt": 1678812425,
+        "sys": {
+            "type": 1,
+            "id": 9165,
+            "country": "IN",
+            "sunrise": 1678755766,
+            "sunset": 1678798703
+        },
+        "timezone": 19800,
+        "id": 1273294,
+        "name": "Delhi",
+        "cod": 200
+    },
+    "mangalore": {
+        "coord": {
+            "lon": 74.843,
+            "lat": 12.8698
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.43,
+            "feels_like": 32.84,
+            "temp_min": 28.43,
+            "temp_max": 28.43,
+            "pressure": 1009,
+            "humidity": 78
+        },
+        "visibility": 6000,
+        "wind": {
+            "speed": 0,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1678813138,
+        "sys": {
+            "type": 1,
+            "id": 9217,
+            "country": "IN",
+            "sunrise": 1678756150,
+            "sunset": 1678799459
+        },
+        "timezone": 19800,
+        "id": 1263780,
+        "name": "Mangalore",
+        "cod": 200
+    }
+}
